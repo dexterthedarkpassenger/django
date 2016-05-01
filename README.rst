@@ -29,7 +29,7 @@ To get more help:
   there. Read the archives at http://django-irc-logs.com/.
 
 * Join the django-users mailing list, or read the archives, at
-  https://groups.google.com/group/django-users.
+  https://groups.google.com/group/django-users.1
 
 To contribute to Django:
 
